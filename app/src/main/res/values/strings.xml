@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daftar Jenis-Jenis Burung </string>
+    <string name="affirmation1">Burung Kenari</string>
+    <string name="affirmation2">Burung Gelatik</string>
+    <string name="affirmation3">Burung Pipit</string>
+    <string name="affirmation4">Burung Pleci</string>
+    <string name="affirmation5">Burung Prenjak</string>
+    <string name="affirmation6">Burung Gemak</string>
+    <string name="affirmation7">Burung Kolibri</string>
+    <string name="affirmation8">Burung Tledekan</string>
+    <string name="affirmation9">Burung Kacer</string>
+    <string name="affirmation10">Burung Ekek</string>
+</resources>
